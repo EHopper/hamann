@@ -1,137 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Millennial</title>
-		<description>a minimalist Jekyll theme for running a blog or publication</description>
+		<title>Paul Hamann</title>
+		<description>Sculptor</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to Jekyll!</title>
+				<title>Germany in the 20s and 30s</title>
+				
+					<dc:creator>Karen Hopper</dc:creator>
 				
 				
-					<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+					<description>&lt;p&gt;All of the skit videos are completely bananas, I love it.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 04 Sep 2024 08:44:01 -0400</pubDate>
-				<link>http://localhost:4000/welcome-to-jekyll</link>
-				<guid isPermaLink="true">http://localhost:4000/welcome-to-jekyll</guid>
+				<pubDate>Thu, 05 Sep 2024 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/germany</link>
+				<guid isPermaLink="true">http://localhost:4000/germany</guid>
 			</item>
 		
 			<item>
-				<title>Graphic Designer On The Road</title>
+				<title>Life Masks</title>
+				
+					<dc:creator>Karen Hopper</dc:creator>
 				
 				
-					<description>&lt;p&gt;A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer’s job is to present information in a way that is both accessible and memorable.&lt;/p&gt;
+					<description>&lt;p&gt;The latest in skincare! All the rage with so many celebs! Way cool, but kinda creepy.&lt;/p&gt;
 </description>
 				
-				<pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/Graphic-Designer-On-The-Road</link>
-				<guid isPermaLink="true">http://localhost:4000/Graphic-Designer-On-The-Road</guid>
-			</item>
-		
-			<item>
-				<title>Review: A Week With the Apple Watch</title>
-				
-				
-					<description>&lt;p&gt;The &lt;strong&gt;Apple Watch&lt;/strong&gt; is a smartwatch developed by &lt;a href=&quot;http://www.apple.com/&quot;&gt;Apple Inc&lt;/a&gt;. It incorporates fitness tracking and health-oriented capabilities as well as integration with iOS and other Apple products and services. The device is available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition. The Watch is distinguished by different combinations of cases and first or third party interchangeable bands. Apple Watch relies on a wirelessly connected iPhone to perform many of its default functions such as calling and texting. It is compatible with the iPhone 5 or later models running iOS 8.2 or later, through the use of Bluetooth or Wi-Fi.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/a-week-with-the-apple-watch</link>
-				<guid isPermaLink="true">http://localhost:4000/a-week-with-the-apple-watch</guid>
-			</item>
-		
-			<item>
-				<title>Basic Rules For Walking In The Mountains</title>
-				
-				
-					<description>&lt;p&gt;In the &lt;em&gt;United States, Canada, the Republic of Ireland, and United Kingdom,&lt;/em&gt; &lt;strong&gt;hiking&lt;/strong&gt; refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/basic-rules-for-walking-in-the-mountains</link>
-				<guid isPermaLink="true">http://localhost:4000/basic-rules-for-walking-in-the-mountains</guid>
-			</item>
-		
-			<item>
-				<title>How to Set Up Your New iPhone 6 the Right Way</title>
-				
-				
-					<description>&lt;p&gt;The &lt;strong&gt;iPhone 6&lt;/strong&gt; and &lt;strong&gt;iPhone 6 Plus&lt;/strong&gt; are &lt;a href=&quot;https://en.wikipedia.org/wiki/Smartphone&quot;&gt;smartphones&lt;/a&gt; designed and marketed by Apple Inc. The devices are part of the iPhone series and were unveiled on September 9, 2014, and released on September 19, 2014. The iPhone 6 and iPhone 6 Plus jointly serve as successors to the iPhone 5C and iPhone 5S.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/set-up-your-new-iphone-6-the-Right-Way</link>
-				<guid isPermaLink="true">http://localhost:4000/set-up-your-new-iphone-6-the-Right-Way</guid>
-			</item>
-		
-			<item>
-				<title>The Advantages &amp; Disadvantages of Working from Home</title>
-				
-				
-					<description>&lt;p&gt;A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities. They are sometimes referred to as a WAHM &lt;em&gt;(work at home mom)&lt;/em&gt; or a WAHD &lt;em&gt;(work at home dad)&lt;/em&gt;.&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/the-advantages-and-disadvantages-of-working-from-home</link>
-				<guid isPermaLink="true">http://localhost:4000/the-advantages-and-disadvantages-of-working-from-home</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Millennial!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/welcome-to-millennial</link>
-				<guid isPermaLink="true">http://localhost:4000/welcome-to-millennial</guid>
-			</item>
-		
-			<item>
-				<title>Getting Started</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;millennial&quot;&gt;Millennial&lt;/h1&gt;
-</description>
-				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/getting-started</link>
-				<guid isPermaLink="true">http://localhost:4000/getting-started</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
-</description>
-				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/text-formatting</link>
-				<guid isPermaLink="true">http://localhost:4000/text-formatting</guid>
-			</item>
-		
-			<item>
-				<title>Learning Resources</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/learning-resources</link>
-				<guid isPermaLink="true">http://localhost:4000/learning-resources</guid>
+				<pubDate>Wed, 04 Sep 2024 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/life-masks</link>
+				<guid isPermaLink="true">http://localhost:4000/life-masks</guid>
 			</item>
 		
 	</channel>
