@@ -5,7 +5,7 @@ layout: default
 <div class="gallery">
   {% assign images = site.data.images %}
   {% for image in images %}
-    {% if image.type == "art" %}
+    {% if image.group == page.gallery_type %}
       <div class="gallery-item">
       <img src="{{ "/assets/img/" | append: image.imageurl | relative_url }}" alt="{{ image.alt }}">
       <div class="overlay">

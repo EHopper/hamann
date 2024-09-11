@@ -1,9 +1,20 @@
 - imageurl: "life_masks_array.png"
   alt: "Shelves of the buggers"
-  type: "art"
+  group: "art-paul"
 - imageurl: "worpswede.png"
   alt: "A truly accurate depiction of life, we can hope."
-  type: "art"
+  group: "art-higu"
 - imageurl: "faces_70s.png"
   alt: "Higu & Paul pictured in the 70s ish maybe?"
-  caption: "Hilde and Paul in later years, London."
+  group: "bio"
+- imageurl: "faces_20s.png"
+  alt: "Higu & Paul pictured in the 20s ish probably?"
+  group: "bio"
+- imageurl: "hamburg_secession_group.png"
+  alt: |
+    Wacky times with the Hamburg Secession.
+    Higu is in the lower left, Paul standing in the centre.
+  group: "bio"
+- imageurl: "internment_postcard.png"
+  alt: Seriously, this is all they could send??!
+  group: "bio"
