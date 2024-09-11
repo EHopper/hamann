@@ -16,3 +16,4 @@ permalink: /resources
 ## More info
 * [Paul Hamann - Wikipedia](https://de.wikipedia.org/wiki/Paul_Hamann)
 * [Hilde Hamann (Guttman) - Wikipedia](https://de.wikipedia.org/wiki/Hilde_Hamann)
+* [Paul & Hilde's Graves](https://thelondondead.blogspot.com/2015/07/life-masks-of-surrealists-paul-1891.html)
