@@ -2,8 +2,9 @@
 layout: post
 title: "Life Masks"
 author: "Karen Hopper"
-categories: documentation
-tags: [celebs, technique]
+categories: art
+featured: True
+tags: [celebs, techniques, art]
 image: life_masks_array.png
 ---
 

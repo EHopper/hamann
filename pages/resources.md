@@ -12,3 +12,7 @@ permalink: /resources
 * [National Portrait Gallery](https://www.npg.org.uk/collections/search/person/mp07854/paul-hamann)
 * [Tate](https://www.tate.org.uk/art/artists/paul-hamann-19249)
 * [Akademie der K&uuml;nste](https://digital.adk.de/en/provenance-research/paul-hamann/)
+
+## More info
+* [Paul Hamann - Wikipedia](https://de.wikipedia.org/wiki/Paul_Hamann)
+* [Hilde Hamann (Guttman) - Wikipedia](https://de.wikipedia.org/wiki/Hilde_Hamann)

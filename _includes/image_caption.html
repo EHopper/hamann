@@ -1,6 +1,6 @@
-<figure class="image-card width-wide caption">
-  <img src="{{ include.imageurl }}" alt="{{ include.title }}" />
+<figure class="image-container">
+  <img src="{{ "/assets/img/" | append: include.image.imageurl | relative_url }}" alt="{{ include.image.alt }}" />
   {% if include.caption %}
-  <figcaption class="caption-text">{{ include.caption }}</figcaption>
+  <figcaption class="caption-text">{{ include.image.caption }}</figcaption>
   {% endif %}
 </figure>

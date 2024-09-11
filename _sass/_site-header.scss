@@ -43,6 +43,7 @@
 }
 
 .menu {
+  display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -50,6 +51,7 @@
 
 .menu-item {
   display: inline-block;
+  position: relative;
   margin: 0 0 0 15px;
   a {
     color: _palette(meta);

@@ -1,0 +1,48 @@
+
+.image-container {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.image-container img {
+  display: block;
+  width: 100%; /* Make image responsive */
+  height: auto;
+  border-radius: 8px; /* Optional: add rounded corners */
+}
+
+.image-container .caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 14px; /* Adjust font size */
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  visibility: visible; 
+}
+
+
+.image-container .alt-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 16px; /* Adjust font size */
+  opacity: 0; /* Initially hide the alt text */
+  transition: opacity 0.3s ease; /* Smooth transition effect */
+  z-index: 1; /* Ensure it appears above the image */
+}
+
+.image-container:hover .alt-text {
+  opacity: 1; /* Show the alt text on hover */
+}

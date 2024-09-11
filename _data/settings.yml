@@ -8,6 +8,8 @@ google-ID: ''
 
 menu:
 - {name: 'About',              url: 'about'}
+- {name: 'Biography',          url: 'bio'}
+- {name: 'Art',                uril: 'art'}
 - {name: 'Gallery',            url: 'gallery'}
 - {name: 'Resources',          url: 'resources'}
 
